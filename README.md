@@ -44,4 +44,4 @@ To analyze advertising channel performance and build a professional Power BI das
 
 - `Task2_Product_Advertising_Dashboard.pbix` – Power BI Dashboard  
 - `Advertising_Data.csv` – Raw Dataset  
-- 🔗 [LinkedIn Post] – https://www.linkedin.com/posts/esha-adhya-shrivastava-02728a313_futureinterns-internship-datascience-activity-7350925272348590080-D1zo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE-Y058BUS8Eys8F6dTroshSgI-1ot_aC3g
+- 🔗 LinkedIn Post – https://www.linkedin.com/posts/esha-adhya-shrivastava-02728a313_futureinterns-internship-datascience-activity-7350925272348590080-D1zo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE-Y058BUS8Eys8F6dTroshSgI-1ot_aC3g
